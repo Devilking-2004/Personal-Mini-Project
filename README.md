@@ -15,19 +15,3 @@
  * Gained hands-on practice with networking fundamentals and logical network design using Cisco Packet Tracer.
 
  **Tools:** *Cisco Packet Tracer, Routing, Switching, Troubleshooting, IP Configuring, VLAN, DNS, DHCP, HTTP/HTTPS*
-
-# 3. Deployed a Web Application using EC2 Server
- * Deployed a basic web application on an AWS EC2 instance to understand cloud-based server hosting.
- * Configured security groups, key pairs, and network settings to enable secure remote access.
- * Installed and managed a web server on the EC2 instance to host and run the application.
- * Gained hands-on experience with compute services, cloud infrastructure basics, and application deployment workflow.
-
- **Tools:** *Amazon Web Services (AWS), EC2, linux, Apache, basic Web Application like "Hello, World!"*
-
-# 4. Hosted a Static Website using Amazon S3
- * Hosted a static website using Amazon S3 to understand cloud-based storage and web hosting concepts.
- * Configured S3 bucket policies, public access settings, and static website hosting options.
- * Uploaded HTML, CSS, and asset files and validated website access through the S3 endpoint.
- * Gained hands-on experience with object storage and basic web hosting using Amazon Web Services.
-
- **Tools:** *Amazon Web Services (AWS), S3, IAM, File/Folder, simple HTML Website Template*
