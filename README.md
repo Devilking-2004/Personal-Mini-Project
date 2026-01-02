@@ -8,7 +8,7 @@
  
  **Tools:** *Personal Computer (laptop), Internet Connection/Wi-Fi, Arduino IDE, Sensors (pH, Temperature, Turbidity), LED Display, Embedded C code, Connecting Wires*
 
-# 2. Basic Network Infrastructure using Cisco Packet Tracer
+# 2. L1 Basic Network Infrastructure using Cisco Packet Tracer
  * Designed a basic network infrastructure using router, switch, and end devices to understand real-world LAN setup.
  * Configured IP addressing, default gateway, and basic device connectivity within the simulated network.
  * Verified network communication using ping and simple troubleshooting techniques.
